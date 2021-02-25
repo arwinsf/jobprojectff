@@ -1,5 +1,5 @@
 <template>
-  <div class="title">
+  <div class="gif">
     <p>
       <a href="https://www.finanzfluss.de/">
         <img class="object3" src="https://media2.giphy.com/avatars/finanzfluss/Xjkrq8gHCGyt.gif" alt="hello :)"
@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style scoped>
-.title {
+.gif {
   position: absolute;
   height: auto;
   left: -150px;
