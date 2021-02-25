@@ -28,8 +28,8 @@ html {
 
 #app {
   background-color: #2a59c0;
-  color: white;
   text-align: center;
+  color: white;
   font-family: "Roboto Light", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
